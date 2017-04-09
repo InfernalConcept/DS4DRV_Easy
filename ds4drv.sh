@@ -25,12 +25,12 @@ echo " "
 sleep 5
 sudo -H pip install ds4drv
 cd ~/Downloads
-	wget https://raw.githubusercontent.com/Librebowski/DS4DRV_SetUp/master/50-ds4drv.rules
+	wget https://raw.githubusercontent.com/Librebowski/DS4DRV_Easy/master/50-ds4drv.rules
 	suco cp ~/Downloads/50-ds4drv.rules /etc/udev/rules.d/
 	sudo udevadm control --reload-rules
 	sudo udevadm trigger
 	cd ~/.config
-	wget https://raw.githubusercontent.com/Librebowski/DS4DRV_SetUp/master/ds4drv.conf
+	wget https://raw.githubusercontent.com/Librebowski/DS4DRV_Easy/master/ds4drv.conf
 echo "Driver is now properly installed, thank you for using my script!"
 sleep 4
 echo " "
@@ -63,11 +63,6 @@ echo "k  |           /        |    |       |         |k"
 echo "i  |          |         |    |       |         |i"
 echo "**  Librebowski ** Librebowski ** Librebowski  **"
 sleep 2
-echo " "
-echo " "
-echo " "
-echo " "
-echo " "
 echo " "
 echo " "
 echo " "
