@@ -4,6 +4,7 @@
 
 
 Instructions for install: 
+(For use with Ubuntu and Debian variants)
 
  Save DS4DRV.sh to Desktop mark as executable and run. 
 
