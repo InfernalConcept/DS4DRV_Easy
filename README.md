@@ -1,12 +1,20 @@
 # DS4DRV_Easy
 This script enables and sets up DS4DRV for lazy people.
 
-Instructions: 
+Instructions for install: 
 
-$ chmod +x <File.name>
+Save DS4DRV.sh to Desktop.
 
-$ sudo ./<File.name>
+$ cd Desktop
 
+Desktop$ chmod +x DS4DRV.sh
+
+Desktop$ sudo ./DS4DRV.sh
+
+Authenticate with your password and you are good to go.
+
+
+Instructions for pairing:
 
 Step 1: Pair controler in the Bluetooth Manager on the top bar and make sure your first step is "Add" or "Add device".
 
@@ -18,7 +26,10 @@ Step 4: Open Terminal and type: ds4drv and hit enter, hold Option and the middle
 
 Step 5: (Optional) switch to XBox mode by holding R1 L1 and the middle button. This mode offer more compatibility in games.
 
-Have fun I hope you guys enjoy Gaming on Linux!
+
+Video guide: https://www.youtube.com/watch?v=y8PFwXfDSk0
+
+Have fun I hope you guys enjoy Gaming on Linux! Welcome to the community which is what makes all this possible.
 
 -Librebowski
  
