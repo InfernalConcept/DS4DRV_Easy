@@ -1,10 +1,5 @@
 #!/bin/bash
 #Install script for DS4DRV by: Librebowski (Librebowski@gmail.com)
-# I am not responsible for bricked devices, dead SD cards,
- * thermonuclear war, or you getting fired because you spent too much time jerking here. Please
- * do some research if you have any concerns about features included in this subreddit
- * before visiting it! YOU are choosing to make these decisions, and if
- * you point the finger at me for messing up your life, I will laugh at you.
 
 echo " "
 echo "***Welcome to Librebowskis DS4DRV install script intended for Debian, Ubuntu and Mint***"
