@@ -1,5 +1,5 @@
 # DS4DRV_Easy
-#Install script for DS4DRV by: Librebowski (Librebowski@gmail.com)
+#Install script for DS4DRV by: Librebowski.
 #This script enables and sets up DS4DRV for lazy people.
 
 
