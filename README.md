@@ -5,9 +5,8 @@ Instructions:
 
 $ chmod +x <File.name>
 
-# ./<File.name>
+$ sudo ./<File.name>
 
-please run as root or sudo.
 
 Step 1: Pair controler in the Bluetooth Manager on the top bar and make sure your first step is "Add" or "Add device".
 
