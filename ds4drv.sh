@@ -15,7 +15,7 @@ sudo apt-get update && sudo apt-get -y upgrade
 sudo apt-get install python-pip
 sudo -H pip install --upgrade pip
 echo " "
-echo "Now we will now install DS4DRV..."
+echo "Now we will install DS4DRV..."
 echo " "
 sleep 5
 sudo -H pip install ds4drv
