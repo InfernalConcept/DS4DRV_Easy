@@ -1,6 +1,14 @@
 # DS4DRV_Easy
 This script enables and sets up DS4DRV for lazy people.
 
+Instructions: 
+
+$ chmod +x <File.name>
+
+# ./<File.name>
+
+please run as root or sudo.
+
 Step 1: Pair controler in the Bluetooth Manager on the top bar and make sure your first step is "Add" or "Add device".
 
 Step 2: once paired correctly proceed to the next step.
