@@ -39,6 +39,8 @@ Instructions for pairing:
 Video guide: https://www.youtube.com/watch?v=y8PFwXfDSk0
 
  Have fun I hope you guys enjoy Gaming on Linux! Welcome to the community which is what makes all this possible.
-
+ 
+ Special thanks to: https://github.com/chrippa/ds4drv/
+ 
 -Librebowski
  
