@@ -1,5 +1,5 @@
 #!/bin/bash
-#Install script for DS4DRV by: Librebowski (Librebowski@gmail.com)
+#Install script for DS4DRV by: Librebowski.
 
 echo " "
 echo "***Welcome to Librebowskis DS4DRV install script intended for Debian, Ubuntu and Mint***"
