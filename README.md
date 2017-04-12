@@ -1,8 +1,4 @@
-# DS4DRV_Easy
 #Install script for DS4DRV by: Librebowski.
-#This script enables and configures DS4DRV with X-Box and PlayStation configurations with the ability to switch FAST between the two.
-
-
 Instructions for install: 
 (For use with Ubuntu and Debian variants)
 
@@ -19,8 +15,11 @@ Commands:
  $ chmod +x DS4DRV.sh
 
  $ sudo ./DS4DRV.sh
-
+ 
 Authenticate with your password and you are good to go.
+
+
+#This script enables and configures DS4DRV with X-Box and PlayStation configurations with the ability to switch FAST between the two.
 
 
 Instructions for pairing:
