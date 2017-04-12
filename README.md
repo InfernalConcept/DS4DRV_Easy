@@ -1,5 +1,3 @@
-#Install script for DS4DRV by: Librebowski.
-
 Commands:
 
  $ cd Desktop
@@ -20,6 +18,7 @@ Instructions for install:
 
 https://github.com/Librebowski/DS4DRV_Easy/blob/master/ds4drv.sh
 
+#Install script for DS4DRV by: Librebowski.
 
 #This script enables and configures DS4DRV with X-Box and PlayStation configurations with the ability to switch FAST between the two.
 
