@@ -11,14 +11,12 @@ Commands:
 Authenticate with your password and you are good to go.
 
 
-Instructions for install: 
-(For use with Ubuntu and Debian variants)
+#Install script for DS4DRV by: Librebowski.
 
- Save DS4DRV.sh to Desktop mark as executable and run. 
+#For use with all Ubuntu and Debian variants.
 
 https://github.com/Librebowski/DS4DRV_Easy/blob/master/ds4drv.sh
 
-#Install script for DS4DRV by: Librebowski.
 
 #This script enables and configures DS4DRV with X-Box and PlayStation configurations with the ability to switch FAST between the two.
 
