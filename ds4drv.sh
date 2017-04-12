@@ -11,7 +11,9 @@ sleep 3
 echo "This may take up to a few minutes, please be patient."
 echo " "
 sleep 5
-sudo apt-get update && sudo apt-get -y upgrade
+sudo apt-get update 
+#uncomment below line to enable upgrade as this may cause the video driver to need to be reinstalled.
+#sudo apt-get -y upgrade
 sudo apt-get install python-pip
 sudo -H pip install --upgrade pip
 echo " "
