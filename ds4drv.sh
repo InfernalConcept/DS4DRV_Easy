@@ -23,7 +23,7 @@ sleep 5
 sudo -H pip install ds4drv
 cd ~/Downloads
 	wget https://raw.githubusercontent.com/Librebowski/DS4DRV_Easy/master/50-ds4drv.rules
-	suco cp ~/Downloads/50-ds4drv.rules /etc/udev/rules.d/
+	sudo cp ~/Downloads/50-ds4drv.rules /etc/udev/rules.d/
 	sudo udevadm control --reload-rules
 	sudo udevadm trigger
 	cd ~/.config
